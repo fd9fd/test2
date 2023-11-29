@@ -9,4 +9,7 @@ def RandomNumber():
 def CheckUserChoice(number, guess):
     return None
 
+#ddd
+#test 2
+
 main()
