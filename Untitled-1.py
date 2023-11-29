@@ -6,7 +6,12 @@ def main():
 
 def RandomNumber():
     return None
+
+#check
 def CheckUserChoice(number, guess):
-    return None
+    if number == guess:
+        return 'good guess!'
+    else:
+        return 'try again'
 
 main()
